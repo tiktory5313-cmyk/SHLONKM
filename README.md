@@ -4,7 +4,7 @@ For more information and the tools we write about, visit our website on the dark
 http://zofjpdufbw7ump3gwt3iwm7uhw7t2jua5ky5tkcdtserr76btpt2rjad.onion/
 ~~~
 # Description
-Shirazi tools are simple-coded but advanced in terms of productivity, written in C++. The main purpose of these tools is to facilitate and speed up dealing with all types of encryption protocols.
+Shirazi's tools are simple to program but highly productive, written in C++. Their primary purpose is to facilitate and expedite the handling of all types of encryption protocols. Our tools may be used illegally, and we are certainly not responsible for such actions.
 
 # Installation
 ## debian
