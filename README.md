@@ -5,3 +5,10 @@ http://zofjpdufbw7ump3gwt3iwm7uhw7t2jua5ky5tkcdtserr76btpt2rjad.onion/
 ~~~
 # Description
 Shirazi tools are simple-coded but advanced in terms of productivity, written in C++. The main purpose of these tools is to facilitate and speed up dealing with all types of encryption protocols.
+
+# Installation
+## debian
+~~~ bash
+sudo apt update
+sudo apt install build-essential libssl-dev libboost-all-dev
+~~~
