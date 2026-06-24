@@ -8,7 +8,11 @@ Shirazi's tools are simple to program but highly productive, written in C++. The
 
 # Installation
 ## debian
+Install basic files
 ~~~ bash
 sudo apt update
 sudo apt install build-essential libssl-dev libboost-all-dev
+git clone 
+cd SHLONKM/'Shirazi tools'
+g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool -lssl -lcrypto
 ~~~
