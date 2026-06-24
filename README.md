@@ -12,8 +12,10 @@ Install the necessary files and run the tool V1.1.
 ~~~ bash
 sudo apt update
 sudo apt install build-essential libssl-dev libboost-all-dev
+
 git clone https://github.com/tiktory5313-cmyk/SHLONKM.git
 cd SHLONKM/'Shirazi tools'
+
 g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool1 -lssl -lcrypto
 ./shirazi_tool_V1
 ~~~
@@ -22,8 +24,10 @@ g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool1 -lssl -lcrypto
 Install the necessary files and run the tool V1.1.
  ~~~ bash
 sudo dnf install gcc-c++ openssl-devel boost-devel
+
 git clone https://github.com/tiktory5313-cmyk/SHLONKM.git
 cd SHLONKM/'Shirazi tools'
+
 g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool1 -lssl -lcrypto
 ./shirazi_tool_V1
 ~~~
@@ -31,8 +35,10 @@ g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool1 -lssl -lcrypto
 ## Arch Linux
 ~~~ bash
 sudo pacman -S base-devel openssl boost
+
 git clone https://github.com/tiktory5313-cmyk/SHLONKM.git
 cd SHLONKM/'Shirazi tools'
+
 g++ -std=c++17 Shirazi_V_1.1.cpp -o shirazi_tool1 -lssl -lcrypto
 ./shirazi_tool_V1
 ~~~
