@@ -50,7 +50,7 @@ void informations_for_tools(){
     cout << "Hello user, this tool or terminal application was designed by an Iraqi team affiliated with Shloncom Company." << endl;
     cout << "-------------------------------------------------------------------------------------------------------------" << endl;
     cout << "" << endl;
-    cout << "Hello Ahmed, you are now using the Shirazi tool" << endl;
+    cout << "Hello user, you are now using the Shirazi tool" << endl;
     cout << "-----------------------------------------------" << endl;
     cout << "" << endl;
     cout << "one of the advanced tools in the field of data protection and encryption." << endl;
