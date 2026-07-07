@@ -47,7 +47,7 @@ void informations_for_tools(){
     cout << "" << endl;
     cout << "=====================================) Information about the tool, version 2.2 (=====================================" << endl;
     cout << "" << endl;
-    cout << "Hello user, this tool or terminal application was designed by an Iraqi team affiliated with Shloncom Company." << endl;
+    cout << "Hello user, this tool or terminal application was designed by an Iraqi team affiliated with Shlonkm Company." << endl;
     cout << "-------------------------------------------------------------------------------------------------------------" << endl;
     cout << "" << endl;
     cout << "Hello user, you are now using the Shirazi tool" << endl;
